@@ -1,0 +1,10 @@
+[27-Feb-2020 01:44:53 Europe/Minsk] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'SiteController' does not have a method 'actionHomeWork1' in /home/phplab/public_html/12/components/Router.php on line 64
+[27-Feb-2020 01:46:21 Europe/Minsk] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'SiteController' does not have a method 'actionHomeWork1' in /home/phplab/public_html/12/components/Router.php on line 64
+[27-Feb-2020 01:46:25 Europe/Minsk] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'SiteController' does not have a method 'actionHomeWork1' in /home/phplab/public_html/12/components/Router.php on line 64
+[27-Feb-2020 01:53:25 Europe/Minsk] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'SiteController' does not have a method 'actionPage' in /home/phplab/public_html/12/components/Router.php on line 64
+[27-Feb-2020 01:53:30 Europe/Minsk] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'SiteController' does not have a method 'actionPage' in /home/phplab/public_html/12/components/Router.php on line 64
+[27-Feb-2020 10:19:44 Europe/Minsk] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'SiteController' does not have a method 'actionPage' in /home/phplab/public_html/12/components/Router.php on line 64
+[27-Feb-2020 10:20:12 Europe/Minsk] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'SiteController' does not have a method 'actionPage' in /home/phplab/public_html/12/components/Router.php on line 64
+[05-Mar-2020 11:22:16 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file in /home/phplab/public_html/12/views/site/homework2.php on line 46
+[05-Mar-2020 11:22:18 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file in /home/phplab/public_html/12/views/site/homework2.php on line 46
+[05-Mar-2020 11:22:19 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file in /home/phplab/public_html/12/views/site/homework2.php on line 46
