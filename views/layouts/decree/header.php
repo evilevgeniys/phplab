@@ -12,7 +12,7 @@
     <link rel='stylesheet' id='decree-style-css'  href='views/layouts/decree/style.min.css' type='text/css' media='all' />
 
     <!--[if lt IE 9]>
-    <script type='text/javascript' src='/views/layouts/decree/js/html5.min.js'></script>
+    <script type='text/javascript' src='views/layouts/decree/js/html5.min.js'></script>
     <![endif]-->
     <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
     <style type="text/css" media="screen" rel="ct-custom-css">

@@ -25,14 +25,14 @@ class SiteController
         return true;
     }
 
-    public function  actionShowNews($newsid)
+    public function  actionShowNews($id)
     {
-        if(is_numeric($newsid))
+        if(is_numeric($id))
         {
-            require_once(ROOT. '/views/site/news/news.php');
+            require_once(ROOT . '/views/site/news/news.php');
             return true;
         } else {
-            require_once(ROOT. '/views/site/news/showNews.php');
+            require_once(ROOT . '/views/site/news/showNews.php');
             return true;
         }
     }
