@@ -31,17 +31,17 @@
 </footer><!-- #colophon -->
 </div><!-- #page -->
 <a href="#masthead" id="scrollup"><span class="screen-reader-text">Вверх</span></a>
-<script type='text/javascript' src='views/layouts/decree/js/jquery.js'></script>
-<script type='text/javascript' src='views/layouts/decree/js/navigation.min.js'></script>
-<script type='text/javascript' src='views/layouts/decree/js/scrollup.min.js'></script>
-<script type='text/javascript' src='views/layouts/decree/js/jquery.matchHeight.min.js'></script>
-<link rel='stylesheet' id='decree-web-font-css'  href='views/layouts/decree/fonts/font.css' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='views/layouts/decree/css/font-awesome.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='<?=HOST?>/views/layouts/decree/js/jquery.js'></script>
+<script type='text/javascript' src='<?=HOST?>/views/layouts/decree/js/navigation.min.js'></script>
+<script type='text/javascript' src='<?=HOST?>/views/layouts/decree/js/scrollup.min.js'></script>
+<script type='text/javascript' src='<?=HOST?>/views/layouts/decree/js/jquery.matchHeight.min.js'></script>
+<link rel='stylesheet' id='decree-web-font-css'  href='<?=HOST?>/views/layouts/decree/fonts/font.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='<?=HOST?>/views/layouts/decree/css/font-awesome.min.css' type='text/css' media='all' />
 <script type='text/javascript'>
     /* <![CDATA[ */
     var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
     /* ]]> */
 </script>
-<script type='text/javascript' src='views/layouts/decree/js/custom-scripts.min.js'></script>
+<script type='text/javascript' src='<?=HOST?>/views/layouts/decree/js/custom-scripts.min.js'></script>
 </body>
 </html>

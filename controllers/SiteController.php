@@ -25,13 +25,23 @@ class SiteController
         return true;
     }
 
-    public function  actionShowNews($id)
+    public function actionHomework3()
     {
-        if(is_numeric($id))
+        require_once(ROOT . '/views/site/homework3.php');
+        return true;
+    }
+
+    public function  actionShowNews($idNews)
+    {
+        if(is_numeric($idNews))
         {
+            $newsObj = new News();
+            $news = $newsObj->getNews($idNews);
             require_once(ROOT . '/views/site/news/news.php');
             return true;
         } else {
+            $newsObj = new News();
+            $showNews = $newsObj->newsList;
             require_once(ROOT . '/views/site/news/showNews.php');
             return true;
         }

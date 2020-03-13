@@ -9,7 +9,7 @@
     <meta name="keywords" content="Ключевые слова" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 
-    <link rel='stylesheet' id='decree-style-css'  href='views/layouts/decree/style.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='decree-style-css'  href='<?=HOST?>/views/layouts/decree/style.min.css' type='text/css' media='all' />
 
     <!--[if lt IE 9]>
     <script type='text/javascript' src='views/layouts/decree/js/html5.min.js'></script>
@@ -44,6 +44,7 @@
                         <li class="menu-item menu-item-type-post_type menu-item-object-page home_item_menu"><a href="<?=HOST?>/page.php">Домашнее задание 1</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page home_item_menu"><a href="<?=HOST?>/homework2.php">Домашнее задание 2</a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page home_item_menu"><a href="<?=HOST?>/news.php">Новости</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page home_item_menu"><a href="<?=HOST?>/homework3.php">Домашнее задание 3</a></li>
                     </ul>
                 </nav><!-- .nav-primary -->
             </div><!-- #site-header-menu -->
